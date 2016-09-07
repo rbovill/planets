@@ -1,2 +1,3 @@
 Is very red
 cat mars.txt
+Mars is awesome
