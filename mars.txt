@@ -1,0 +1,2 @@
+Is very red
+cat mars.txt
